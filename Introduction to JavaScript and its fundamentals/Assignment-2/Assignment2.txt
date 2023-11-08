@@ -1,0 +1,84 @@
+Question 2 - Explain the key differences between JavaScript and HTML. Provide examples of the situation where you would use each.
+
+#Ans - JavaScript and HTML are both essential technologies in web development, but they serve different purposes and have distinct roles in creating web pages and applications. 
+Following are the key differences between JavaScript and HTML, along with examples of when you would use each:
+
+1). Purpose :-
+
+# JavaScript :- JavaScript is a programming language used for adding interactivity, dynamic behavior, and logic to web pages. It allows developers to create interactive elements, handle user events, and manipulate the content and behavior of a webpage in real-time.
+
+# HTML: HTML (Hypertext Markup Language) is a markup language used for structuring the content of a webpage. It defines the elements and their arrangement on a page, such as headings, paragraphs, lists, links, images, and more.
+
+# Example :-
+
+# JavaScript :- You would use JavaScript to create features like form validation, image sliders, interactive maps, or to update content dynamically without requiring a full page reload.
+   
+# HTML: You would use HTML to define the structure and content of a webpage, specifying elements like headings, paragraphs, lists, links, images, and more.
+
+
+2). Execution Location :-
+
+# JavaScript :- JavaScript code is executed by web browsers on the client's computer (client-side). It interacts with the Document Object Model (DOM) of a webpage to make dynamic changes.
+
+# HTML :- HTML is interpreted by web browsers to render the structure and content of a webpage. It doesn't perform logic or calculations like JavaScript.
+
+3). Syntax and Language Type :-
+
+# JavaScript :- JavaScript is a programming language that uses syntax similar to C-style languages. It supports variables, loops, conditionals, functions, and objects.
+
+# HTML :- HTML is a markup language that uses tags to define elements. It doesn't involve programming logic, but rather provides a structure for displaying content.
+
+4). File Extensions :-
+
+# JavaScript :- JavaScript files have a `.js` file extension.
+
+# HTML :- HTML files have a `.html` or `.htm` file extension.
+
+5). File Usage :-
+
+# JavaScript :- JavaScript code is typically stored in separate files and linked to HTML documents using `<script>` tags. It can also be embedded directly within HTML files.
+
+# HTML :- HTML files are standalone documents that define the structure and content of a webpage.
+
+   **Example**:
+
+   - **JavaScript** (external file):
+
+   ```html
+   <script src="script.js"></script>
+   ```
+
+   - **HTML**:
+
+   ```html
+   <!DOCTYPE html>
+   <html>
+   <head>
+       <title>My Web Page</title>
+   </head>
+   <body>
+       <h1>Hello, World!</h1>
+       <p>This is a paragraph.</p>
+       <script src="script.js"></script>
+   </body>
+   </html>
+   ```
+
+6). Examples of Usage :-
+
+# JavaScript :-
+
+     a). Form validation
+     b). Image sliders or carousels
+     c). Interactive maps
+     d). Handling user input and events
+     e). Fetching and updating data from a server (AJAX)
+
+# HTML :-
+
+     a). Defining the structure and content of a webpage
+     b). Creating headings, paragraphs, lists, links, images, etc.
+     c). Setting up navigation menus and hyperlinks
+     d). Embedding multimedia content (images, videos, audio)
+
+# In practice, JavaScript and HTML are often used together to create dynamic and interactive web pages. HTML provides the basic structure and content, while JavaScript enhances the user experience by adding interactivity and dynamic behavior.

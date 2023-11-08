@@ -1,0 +1,30 @@
+Question 5 - Explain the importance of comments in JavaScript and provide examples of single-line and
+multi-line comments.
+
+# Ans - Comments in JavaScript serve as annotations within the code that are not executed by the JavaScript engine. They are used to provide explanations, clarify code, and make it more understandable for developers (including yourself in the future) who may work on or review the code. Comments play a crucial role in enhancing code readability, maintainability, and collaboration.
+
+# There are two main types of comments in JavaScript:
+
+1). Single-line Comments :-
+# Single-line comments start with // and continue until the end of the line. They are typically used for short, one-line explanations.
+
+2). Multi-line Comments :-
+Multi-line comments are enclosed between /* and */. They can span multiple lines and are useful for providing more detailed explanations or for temporarily disabling blocks of code.
+
+# Importance of Comments :-
+
+1). Documentation :- Comments document the code, providing insights into the purpose of variables, functions, and sections of code.
+
+2). Clarity and Readability :- Well-commented code is easier for you and others to understand. It helps explain the logic and intentions behind the code.
+
+3). Debugging and Troubleshooting :- Comments can be invaluable when trying to identify and fix bugs or issues in the code.
+
+4). Collaboration :- When working on a project with multiple developers, comments help others understand your code, reducing the learning curve and facilitating collaboration.
+
+5). Code Maintenance :- Comments act as a guide for maintaining and updating code over time. They provide context for making changes without accidentally introducing new issues.
+
+6). Temporary Disabling of Code :- You can use comments to temporarily disable blocks of code for testing or debugging purposes.
+
+7). Compliance and Best Practices :- Many coding standards and best practices recommend or require the use of comments to ensure code quality.
+
+# Comments should add value without cluttering the code. They should focus on explaining why the code is written the way it is, rather than repeating what the code does (which should be clear from the code itself).

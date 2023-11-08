@@ -1,0 +1,35 @@
+Question 2 - Describe the categorization of operators in JavaScript based on their functionality. Provide examples for
+each category.
+
+# Ans - Operators in JavaScript can be categorized based on their functionality into several groups. Following are the main categories of operators along with examples for each :-
+
+1). Arithmetic Operators :- Used for performing mathematical calculations on numeric values.
+
+# Arithmetic operators like +, -, *, /, and % are used to perform mathematical calculations on numeric values. For example, addition (+) is used to add two numbers together.
+
+2). Assignment Operators :- Used to assign values to variables, often combined with arithmetic operations.
+
+# Assignment operators like =, +=, -=, *=, /=, and %= are used to assign values to variables. They can also perform operations while assigning values, such as x += 5, which is equivalent to x = x + 5.
+
+3). Comparison Operators :- Used to compare two values and return a Boolean result.
+# Comparison operators like ==, ===, !=, !==, >, <, >=, and <= are used to compare values and return a Boolean result (true or false) based on the comparison.
+
+4). Logical Operators :- Used to perform logical operations on Boolean values.
+# Logical operators like && (AND), || (OR), and ! (NOT) are used to perform logical operations on Boolean values. They help in making decisions based on multiple conditions.
+
+5). Conditional (Ternary) Operator :- Allows for conditional expressions.
+# The conditional operator ? : allows for conditional expressions. It evaluates a condition and returns one of two expressions based on whether the condition is true or false.
+
+6). Unary Operators :-
+# Unary operators operate on a single operand. Examples include the increment (++) and decrement (--) operators, which respectively increase or decrease the value of a variable by 1.
+
+7). String Concatenation operator :- Used to concatenate strings.
+# The + operator is also used for string concatenation, which allows you to combine two or more strings together.
+
+8). Type operator :- Used to determine the type of a variable or expression.
+
+
+9). Bitwise Operators :-
+# Bitwise operators (&, |, ^, ~, <<, >>, >>>) perform operations on the binary representation of numeric values.
+
+# Understanding and using these different categories of operators allows you to perform a wide range of operations in JavaScript, making it a powerful and versatile programming language.
